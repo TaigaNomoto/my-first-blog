@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-
 steps = [6543, 7000, 8900, 10789, 3467, 11045, 5095]
 labels = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
 num_bars = len(steps)
